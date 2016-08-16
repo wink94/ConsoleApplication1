@@ -10,6 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("fafsfsd");
+            Class1 c = new Class1();
         }
     }
 }
